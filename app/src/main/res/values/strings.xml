@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Compas App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragmentOneInfoTV">Set your coordinates</string>
+    <string name="fragmentOneInfoBtn">SET COORDINATES</string>
+    <string name="mainActivityBtnLocation">SET LOCATION</string>
+</resources>
